@@ -1,0 +1,11 @@
+* {
+    font-family: Helvetica;
+}
+/* Header Styles */ 
+h1 {
+    background-image: url('../Images/art-tile-background.jpeg');
+    color: khaki;
+    font-size: 100px;
+    font-weight: bold;
+    
+}
