@@ -7,5 +7,25 @@ h1 {
     color: khaki;
     font-size: 100px;
     font-weight: bold;
-    
+    text-align: center;
+}
+
+/*  Art Products Section Styles */
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+span {
+    font-weight: bold;
+    color: blue;
+}
+.paint-section h2 {
+    background-color: skyblue;
+}
+.frame-section h2 {
+    background-color: lightcoral;
+}
+.brush-section h2 {
+    background-color: mediumspringgreen;
 }
